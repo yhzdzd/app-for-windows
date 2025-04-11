@@ -21,6 +21,8 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 ## Apps
 
+[mpv] (https://github.com/mpv-player/mpv))：全能视频播放器
+
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
 [PowerToys](https://github.com/microsoft/PowerToys)：微软出品的效率工具，可选产品有 [Listary](https://www.listary.com/)、[Wox ](https://github.com/Wox-launcher/Wox) 或 [uTools](https://u.tools/) 。
@@ -28,8 +30,6 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 [ShareX](https://getsharex.com/)：截图工具，支持截图、标注、贴图、OCR 等，可选产品有 [Snipaste](https://zh.snipaste.com/)。
 
 [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/)、[mpc-hc](https://github.com/clsid2/mpc-hc) 或 [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)。
-
-[mpv] (https://github.com/mpv-player/mpv))：全能视频播放器
 
 [Foobar2000](https://www.foobar2000.org/)：音频播放器，跨平台，可选产品有 [Dopamine](https://github.com/digimezzo/dopamine)。
 
