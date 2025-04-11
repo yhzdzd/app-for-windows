@@ -23,7 +23,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 mpv_(https://https://github.com/mpv-player/mpv)/)：视频播放器,开源，跨平台,急速
 
-[Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
+Firefox_(https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
 [PowerToys](https://github.com/microsoft/PowerToys)：微软出品的效率工具，可选产品有 [Listary](https://www.listary.com/)、[Wox ](https://github.com/Wox-launcher/Wox) 或 [uTools](https://u.tools/) 。
 
