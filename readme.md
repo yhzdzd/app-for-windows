@@ -21,9 +21,7 @@ Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft S
 
 ## Apps
 
-[mpv](https://https://github.com/mpv-player/mpv)/)：开源浏览器，跨平台
-
-[mpv]_(https://github.com/mpv-player/mpv))：全能视频播放器
+[Firefox](https://https://github.com/mpv-player/mpv)/)：开源浏览器，跨平台
 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/)：开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
