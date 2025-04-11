@@ -1,23 +1,7 @@
-# Apps For Windows
-
-> Some awesome software for Windows.
-
-## introduction
-
-自从使用 Macbook 以后，我就很少关注 Windows 系统的相关软件了，奈何身边还有很多使用 Windows 系统的朋友，时常会因为流氓软件的困扰而向我求助，所以将 Windows 平台下的优秀软件也做一个记录，以备不时之需，如果你在使用 macOS ，可以[查看这里](https://github.com/holyshell/AppsForMac)获取 macOS 平台下优秀的软件，不定时更新。
-
+- 常用Windows软件
 - 以开源或免费软件为主；
-- 不包含系统自带软件和大众常用的社交、音乐、沟通类软件；
-- 优先选择图形界面软件，也包含 CLI（命令行界面）和 Web 产品；
-- 对于所需的软件，优先选择该软件的官方网址进行下载；
-- 安装软件时要留意界面中的选项描述，避免被安装其他捆绑软件；
-- 注意很多软件对 Windows 系统最低版本的要求，比如很多软件不再支持 Windows 7/8；
 - ⚠️ 对于 360/baidu/2345/sougou 等系列软件尽量不要安装；
 - ⚠️ 避免使用盗版或破解类的软件。
-
-## Package manager
-
-Windows 平台下的软件管理包含微软官方的应用商店（[Microsoft Store](https://apps.microsoft.com/)）和包管理器 [WinGet](https://github.com/microsoft/winget-cli) ；除此之外，还有第三方的 [Scoop](https://scoop.sh/) 和 [Chocolatey](https://chocolatey.org/) ，如果你不习惯使用 CLI 类产品，也可以使用 [UniGetUI](https://github.com/marticliment/UniGetUI) 这样的图形化界面软件。
 
 ## Apps
 
