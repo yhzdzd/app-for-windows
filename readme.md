@@ -7,7 +7,7 @@
 
 mpv :  https://https://github.com/mpv-player/mpv/：视频播放器,开源，跨平台,急速
 
-[mpv](https://https://github.com/mpv-player/mpv/))
+[LocalSend](https://localsend.org/zh-CN)：去中心化、端到端加密的文件传输工具，跨平台。
 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/):开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
