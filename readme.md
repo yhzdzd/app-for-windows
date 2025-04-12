@@ -5,7 +5,7 @@
 
 ## Apps
 
-mpv :  https://https://github.com/mpv-player/mpv/：视频播放器,开源，跨平台,急速
+mpv :  https://https://github.com/mpv-player/mpv/ 
 
 [LocalSend](https://localsend.org/zh-CN)：去中心化、端到端加密的文件传输工具，跨平台。
 
