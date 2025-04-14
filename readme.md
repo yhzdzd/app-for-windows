@@ -17,8 +17,6 @@
 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/):开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
-[PowerToys](https://github.com/microsoft/PowerToys)：微软出品的效率工具，可选产品有 [Listary](https://www.listary.com/)、[Wox ](https://github.com/Wox-launcher/Wox) 或 [uTools](https://u.tools/) 。
-
  [Ventoy](https://github.com/ventoy/Ventoy)：一个开源工具，可用于为 ISO/WIM/IMG/VHD(x)/EFI 文件创建可启动的 USB 驱动器。
 
 [PotPlayer](https://potplayer.daum.net/?lang=zh_CN)：全能视频播放器，可选产品有 [VLC](https://www.videolan.org/vlc/)、[mpc-hc](https://github.com/clsid2/mpc-hc) 或 [MPC-BE](https://github.com/Aleksoid1978/MPC-BE)。
@@ -68,6 +66,8 @@
 [EarTrumpet](https://github.com/File-New-Project/EarTrumpet)：针对不同应用设置不同音量的工具。
 
 [Optimizer](https://github.com/hellzerg/optimizer)：系统级隐私和安全配置优化工具，建议首次安装系统之后使用，可选产品有 [RyTuneX](https://github.com/rayenghanmi/RyTuneX)。
+
+[PowerToys](https://github.com/microsoft/PowerToys)：微软出品的效率工具，可选产品有 [Listary](https://www.listary.com/)、[Wox ](https://github.com/Wox-launcher/Wox) 或 [uTools](https://u.tools/) 。
 
 [Ambie](https://github.com/jenius-apps/ambie)：白噪音工具，帮助你放松和专注。
 
