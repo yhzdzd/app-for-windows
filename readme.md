@@ -71,6 +71,5 @@
 
 [Ambie](https://github.com/jenius-apps/ambie)：白噪音工具，帮助你放松和专注。
 
-## Best wishes
-<img width = "380" height = "400" src="https://raw.githubusercontent.com/holyshell/StudyNotes/refs/heads/master/images/justforfun.jpg">
+ 
 
