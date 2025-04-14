@@ -13,7 +13,7 @@
  
  [LosslessCut](https://github.com/mifi/lossless-cut)：快速无损地剪辑视频和音频文件的工具，适合处理大文件，跨平台。
  
- [ShanaEncoder](https://shana.pe.kr/)：免费的多功能视频编码器，界面简洁，支持批量转码，适用于 Windows。
+[ShanaEncoder](https://github.com/1265578519/ShanaEncoder)：免费的多功能视频编码器，界面简洁，支持批量转码，适用于 Windows。
 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/):开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
