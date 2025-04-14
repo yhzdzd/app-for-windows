@@ -41,6 +41,8 @@
 
 [Everything](https://www.voidtools.com/zh-cn/)：文件/文件夹定位工具，极速查找文件，支持语法。
 
+[pixpin](https://pixpin.cn/))： 截屏强大。
+
 [Umi-OCR](https://github.com/hiroi-sora/Umi-OCR)：离线 OCR 工具，支持截屏/批量导入图片，PDF 文档识别等。
 
 [Weasel](https://github.com/rime/weasel)：小狼毫输入法，高度定制化，跨平台。
