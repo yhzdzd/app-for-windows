@@ -7,13 +7,13 @@
 
 [mpv](https://github.com/mpv-player/mpv)：一个开源的跨平台媒体播放器。
 
-[Seal](https://github.com/Jannchie/Seal)**：聚合搜索工具，支持从多个平台（如 YouTube、Bilibili）统一搜索内容，界面美观，跨平台。
+[Seal](https://github.com/Jannchie/Seal)：聚合搜索工具，支持从多个平台（如 YouTube、Bilibili）统一搜索内容，界面美观，跨平台。
 
- [MusicFree](https://github.com/maotoumao/MusicFree)**：开源音乐播放器，支持多个平台音源聚合，界面简洁，无广告，跨平台。
+ [MusicFree](https://github.com/maotoumao/MusicFree)：开源音乐播放器，支持多个平台音源聚合，界面简洁，无广告，跨平台。
  
- [LosslessCut](https://github.com/mifi/lossless-cut)**：快速无损地剪辑视频和音频文件的工具，适合处理大文件，跨平台。
+ [LosslessCut](https://github.com/mifi/lossless-cut)：快速无损地剪辑视频和音频文件的工具，适合处理大文件，跨平台。
  
- [ShanaEncoder](https://shana.pe.kr/)**：免费的多功能视频编码器，界面简洁，支持批量转码，适用于 Windows。
+ [ShanaEncoder](https://shana.pe.kr/)：免费的多功能视频编码器，界面简洁，支持批量转码，适用于 Windows。
 
 [Firefox](https://www.mozilla.org/zh-CN/firefox/all/desktop-release/):开源浏览器，跨平台，也可以选择 [Chrome](https://www.google.cn/intl/zh-CN/chrome/)（[英文版](https://www.google.com/intl/en_us/chrome/)） 浏览器。
 
