@@ -11,6 +11,8 @@
 
  [MusicFree](https://github.com/maotoumao/MusicFree)：开源音乐播放器，支持多个平台音源聚合，界面简洁，无广告，跨平台。
 
+ [pipepipe]( https://github.com/InfinityLoop1308/PipePipe)：一个开源的Android应用程序,让您自由浏览YouTube,NicoNico和BiliBili。
+
  [mpv](https://github.com/mpv-player/mpv)：一个开源的跨平台媒体播放器。
 
  [Seal](https://github.com/JunkFood02/Seal)：聚合搜索工具，支持从多个平台（如 YouTube、Bilibili）统一搜索内容，界面美观，跨平台。
