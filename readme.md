@@ -11,6 +11,9 @@
 
  [MusicFree](https://github.com/maotoumao/MusicFree)：开源音乐播放器，支持多个平台音源聚合，界面简洁，无广告，跨平台。
 
+  [audacity]( https://github.com/audacity/audacity)： 音频编辑器 
+
+
  [pipepipe]( https://github.com/InfinityLoop1308/PipePipe)：一个开源的Android应用程序,让您自由浏览YouTube,NicoNico和BiliBili。
 
  [mpv](https://github.com/mpv-player/mpv)：一个开源的跨平台媒体播放器。
