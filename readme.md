@@ -15,6 +15,8 @@
 
  [mpv](https://github.com/mpv-player/mpv)：一个开源的跨平台媒体播放器。
 
+  [obs]( https://github.com/obsproject/obs-studio)：OBS Studio - 用于直播和屏幕录制的免费和开源软件 
+
  [Seal](https://github.com/JunkFood02/Seal)：聚合搜索工具，支持从多个平台（如 YouTube、Bilibili）统一搜索内容，界面美观，跨平台。
  
  [LosslessCut](https://github.com/mifi/lossless-cut)：快速无损地剪辑视频和音频文件的工具，适合处理大文件，跨平台。
