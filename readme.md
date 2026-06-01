@@ -14,9 +14,9 @@
   [audacity]( https://github.com/audacity/audacity)： 音频编辑器 
 
 
- [pipepipe]( https://github.com/InfinityLoop1308/PipePipe)：一个开源的Android应用程序,让您自由浏览YouTube,NicoNico和BiliBili。
+ [newpipe]( https://github.com/TeamNewPipe/NewPipe)：一个开源的Android应用程序,让您自由浏览YouTube,NicoNico和BiliBili。
 
- [mpv](https://github.com/mpv-player/mpv)：一个开源的跨平台媒体播放器。
+ [mpv]( https://github.com/shinchiro/mpv-winbuild-cmake)：一个开源的跨平台媒体播放器。
 
   [obs]( https://github.com/obsproject/obs-studio)：OBS Studio - 用于直播和屏幕录制的免费和开源软件 
 
@@ -28,7 +28,7 @@
 
 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级 PDF 阅读工具，还支持 epub、cbz、chm、DjVu、XPS 等格式。
 
-[PhoXo](https://github.com/atphoxo/PhoXo/)：图片浏览工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
+[PhoXo](https://github.com/atphoxo/PhoXo/)：秒开图片浏览工具 
 
 [Notepad3](https://github.com/rizonesoft/Notepad3)：文本编辑器，可以代替系统自带的记事本。
 
