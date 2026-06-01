@@ -28,7 +28,7 @@
 
 [Sumatra PDF](https://www.sumatrapdfreader.org/free-pdf-reader)：轻量级 PDF 阅读工具，还支持 epub、cbz、chm、DjVu、XPS 等格式。
 
-[PhoXo](https:// https://github.com/atphoxo/PhoXo/)：图片浏览工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
+[PhoXo](https://github.com/atphoxo/PhoXo/)：图片浏览工具，可选产品有 [IrfanView](https://www.irfanview.com/) 或 [FSViewer](https://www.faststone.org/FSViewerDetail.htm) 。
 
 [Notepad3](https://github.com/rizonesoft/Notepad3)：文本编辑器，可以代替系统自带的记事本。
 
